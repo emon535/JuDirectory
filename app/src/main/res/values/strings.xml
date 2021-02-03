@@ -1,4 +1,10 @@
 <resources>
-    <string name="app_name">JU_Direcroty</string>
+    <string name="app_name">Headfirst Android App</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_receive_message">Receive Message</string>
+    <string-array name="spinner_category_value">
+        <item>JU</item>
+        <item>DU</item>
+        <item>SUST</item>
+    </string-array>
 </resources>
